@@ -1,6 +1,7 @@
-	h1{background-color:red;color:green;text-align:center;}
+	h1{background-color:#24B6FF;color:#003322;text-align:center;border:4px dashed black;}
 	
-	p {background-color:red;color:green;text-align:center; }
+	p {background-color:#FBBC05;color:green;text-align:center;border:4px dashed purple; }
+	
 	
 	
 	
@@ -9,7 +10,13 @@
 	
 	.lol {
       width: 500px;
-      height: 150px;
+      height: 450px;
+	  padding: 50px;
+	  border: 10px solid black;
+	  
+	  
+	  
+	  
     }
 		
 		
