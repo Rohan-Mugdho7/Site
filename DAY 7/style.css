@@ -1,0 +1,26 @@
+	*{
+		margin:0px ;
+		
+		padding:0px;
+		
+		box-sizing: border-box;
+			
+		
+	}
+	
+	
+	.row{ display:flex; 
+	
+	    background-color:orange;
+		 
+		border: 5px ridge red;
+		
+		padding:10px;
+	     }
+	
+	.col-1{border: 3px ridge green; padding:4px; }
+	
+	.col-2{border: 3px ridge green;padding:4px;}
+	
+	.col-3{border: 3px ridge green;padding:4px;}
+	
