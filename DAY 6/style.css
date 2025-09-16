@@ -1,7 +1,7 @@
 	*{
-		margin:10px ;
+		margin:0px ;
 		
-		padding:10px;
+		padding:0px;
 		
 		box-sizing: border-box;
 			
@@ -9,18 +9,34 @@
 	}
 	
 	
-	div{
-		font-family:Sans-serif;
+	.BAT{
+		
 		border: 10px ridge #007F54;
-		width: 600px ;
 		height: 400px ;
-		padding: 10px ;
+		padding: 10px 40px ;
 	    background:url('Back.jpg');
 		background-repeat:no-repeat;
 		background-size:100% 100%;
-	    color: #D90000 ;
+	   
 		}
-		
-	p{ width: 200px ;
+	
+	.BAT h1{ font-size:60px;
+			color:Orange;
+			margin-top:20px;
+	
+	
+	}
+
+
+
+
+
+	
+	.BAT p {
+
+       font-family:Sans-serif;
+	   width: 200px ;
 	   height: 100px ;
-       padding: 20px ;	   }
+       padding: 20px ;
+	   color:green;
+	    }
