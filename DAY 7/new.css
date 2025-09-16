@@ -1,0 +1,58 @@
+*{
+		margin:0px ;
+		
+		padding:0px;
+		
+		box-sizing: border-box;
+			
+		
+	}
+	
+	
+	.service-container{ width:1140px;
+	                    border:2px solid blue;
+						margin:auto;
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	.service-row{ 
+	   
+	    text-align:center;
+		
+		display:flex;
+		
+		
+		
+	    font-family:Cursive;
+		
+		gap:20px; 
+		
+	    background-color:orange;
+	 
+		border: 5px ridge red;
+		
+		padding:10px;
+	
+	}
+	
+	
+	
+	.service-col-1{border: 5px ridge green;padding:5px;}
+	
+	
+	
+	
+	.service-col-2{border: 5px ridge green;padding:5px;}
+	
+	
+	
+	.service-col-3{border: 5px ridge green;padding:5px;}
