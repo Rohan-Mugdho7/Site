@@ -11,6 +11,10 @@
 	
 	.row{ display:flex; 
 	
+		font-family:Monospace;
+		
+		gap:20px; 
+		
 	    background-color:orange;
 		 
 		border: 5px ridge red;
@@ -18,7 +22,7 @@
 		padding:10px;
 	     }
 	
-	.col-1{border: 3px ridge green; padding:4px; }
+	.col-1{border: 3px ridge green;padding:4px;}
 	
 	.col-2{border: 3px ridge green;padding:4px;}
 	
